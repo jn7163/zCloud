@@ -2,8 +2,8 @@
 名称|源码大小
 :---------:|:---------:
 zCloud|722k
-ss_panel pro|1529k
-hf|1515k
+SS_Panel Pro|1529k
+HF|1515k
 
 进度 60%
 
