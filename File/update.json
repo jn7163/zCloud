@@ -1,1 +1,1 @@
-{"version":"version alpha(11)","version_value":11, "download_url":"www.baidu.com", "notification":"www.baidu.com\r骗你的www.baidu.com\r骗你的"}
+{"version":"version alpha(11)","version_value":11, "download_url":"www.baidu.com", "notification":"[完成]·修复SSR链接ansi编码\r[完成]·修复数组列表溢出错误\r[完成]·去除模式窗体改用列表\r[完成]·去除拷贝菜单 二维码菜单（整体优化 支持多选）\r[完成]·优化正则表达式匹配（减少误差）\r[完成]·重写多线程（防止UI卡死）\r[完成]·全面优化获取到列表（减少变量）\r[完成]·补充配置读写（二维码菜单选项 ）\r[完成]·修复二维码显示及其选项\r[完成]·补充获取进度以及调试输出（基本完成）"}
